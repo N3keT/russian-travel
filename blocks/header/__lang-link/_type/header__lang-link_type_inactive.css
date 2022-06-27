@@ -1,0 +1,7 @@
+.header__lang-link_type_inactive {
+    text-decoration: none;
+}
+
+.header__lang-link_type_inactive:hover {
+    opacity: .8;
+}
