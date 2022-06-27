@@ -2,7 +2,6 @@
     margin: 0 auto;
     padding: 92px 0 0;
     width: calc(100% - 48px * 2);
-    list-style: none;
     display: grid;
     gap: 16px;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
